@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vite/
+*.log
+*.err
+figma-page*.png
+figma-grid.png
