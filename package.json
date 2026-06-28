@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "vite --host 127.0.0.1",
     "build": "vite build",
+    "build:standalone": "node scripts/build-standalone.mjs",
+    "build:index3": "node scripts/build-index3-standalone.mjs",
     "preview": "vite preview --host 127.0.0.1"
   },
   "dependencies": {

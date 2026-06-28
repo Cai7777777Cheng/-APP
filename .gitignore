@@ -1,6 +1,8 @@
 node_modules/
 dist/
 .vite/
+.standalone-build/
+.standalone-build-index3/
 *.log
 *.err
 figma-page*.png
